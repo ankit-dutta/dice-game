@@ -1,0 +1,51 @@
+body {
+  margin: auto;
+  text-align: center;
+  background: #5f6769;
+}
+
+h1 {
+  font-family: lobster, cursive;
+  font-size: 100px;
+  margin: 10px auto;
+  color: #b2fcff;
+}
+.playerone {
+  font-family: "indie Flower", cursive;
+  color: #b2fcff;
+  display: inline-block;
+  margin-left: 70px;
+}
+.playertwo {
+  font-family: "indie Flower", cursive;
+  color: #b2fcff;
+  display: inline-block;
+  margin-left: 70px;
+}
+
+img {
+  width: 250px;
+  height: 250px;
+}
+
+.btn {
+  background: #a6cae3;
+  background-image: -webkit-linear-gradient(top, #a6cae3, #2980b9);
+  background-image: -moz-linear-gradient(top, #a6cae3, #2980b9);
+  background-image: -ms-linear-gradient(top, #a6cae3, #2980b9);
+  background-image: -o-linear-gradient(top, #a6cae3, #2980b9);
+  background-image: linear-gradient(to bottom, #a6cae3, #2980b9);
+  -webkit-border-radius: 35;
+  -moz-border-radius: 35;
+  border-radius: 35px;
+  font-family: Courier New;
+  color: #080108;
+  font-size: 59px;
+  padding: 7px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #16753c;
+  text-decoration: none;
+}
